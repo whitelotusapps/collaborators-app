@@ -1,0 +1,8 @@
+{
+  "app": {
+    "name": "Collaborators App",
+    "short_description": "Adds a unique tag for every collaborator on a ticket",
+    "long_description": "Adds a unique tag for every collaborator on a ticket",
+    "installation_instructions": "Define a prefix or a suffix for the collaborator view tags"
+  }
+}
