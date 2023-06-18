@@ -41,8 +41,8 @@ CAUTION
 When you first install the app, you will be presented with 3 options for this app:
 
 1. Collaborator Tag Prefix
-  - This is a text field.
-  - Whatever is entered into this field will be the start of the tag
+    - This is a text field.
+    - Whatever is entered into this field will be the start of the tag
 
 2. Collaborator Tag Suffix
   - This is a text field.
