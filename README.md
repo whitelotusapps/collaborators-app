@@ -45,27 +45,24 @@ When you first install the app, you will be presented with 3 options for this ap
     - Whatever is entered into this field will be the start of the tag
 
 2. Collaborator Tag Suffix
-  - This is a text field.
-  - Whatever is entered into this field will be appended to the end of the tag
+    - This is a text field.
+    - Whatever is entered into this field will be appended to the end of the tag
 
 3. Include collaborator email address in tag
-  - This is a checkbox
-  - This will include the collaborators email address as part of the tag
-  - This is recommended to ensure truly unique tag names
+    - This is a checkbox
+    - This will include the collaborators email address as part of the tag
+    - This is recommended to ensure truly unique tag names
 
-An example of this is below:
-
-```
 Below is an example of a tag:
 
+```
 v1_packaged_app_pre_zack_test-account_test-account_at_example.com_v1_packaged_app_suf
-
+```
 * The 'Collaborator Tag Prefix' was defined as "v1_packaged_app_pre"
 * The 'Collaborator Tag Suffix' was defined as "v1_packaged_app_suf"
 * The 'Include collaborator email address in tag' option was checked
 * The name of the user is: "Zack (Test-Account)"
 * The email address of the user is: test-account@example.com
-```
 ## Usage
 
 1. Once the app is installed, and the prefix, suffix, and include email address settings are configured, the Collaborators App is ready to go
