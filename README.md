@@ -68,7 +68,7 @@ v1_packaged_app_pre_zack_test-account_test-account_at_example.com_v1_packaged_ap
 1. Once the app is installed, and the prefix, suffix, and include email address settings are configured, the Collaborators App is ready to go
 
 2. All that needs to be done is to:
-  - Have followers and/or CCs saved to a ticket
-  - Once the ticket is viewed by an Agent, the app will read in all of the collaborators on the ticket, generate tags based upon the configuration, and then check the ticket to see if those tags already exist on the ticket, and any collaborator tags that do not already exist get applied to the ticket
+    - Have followers and/or CCs saved to a ticket
+    - Once the ticket is viewed by an Agent, the app will read in all of the collaborators on the ticket, generate tags based upon the configuration, and then check the ticket to see if those tags already exist on the ticket, and any collaborator tags that do not already exist get applied to the ticket
 
 3. Once tags have been created within the Zendesk instance, then Views can be created based upon these tags
